@@ -61,8 +61,3 @@ while True:
 # Coded By Onurhocaoglu
 # http://www.onurhocaoglu.com
 
-
-
-
-
-
